@@ -1,4 +1,4 @@
-# Projet 4 : Optimisation des Données Clients pour la Modélisation Prédictive
+[# Projet 4 : Optimisation des Données Clients pour la Modélisation Prédictive](https://github.com/y-sm-s/Optimisation-des-Donne-es-Clients-pour-la-Mode-lisation-Pre-dictive/blob/main/Optimisation%20des%20Donne%CC%81es%20Clients%20pour%20la%20Mode%CC%81lisation%20Pre%CC%81dictive.ipynb)
 
 ## Description  
 Ce projet a pour objectif de préparer un ensemble de données clients pour une modélisation prédictive. Vous avez été engagé par Training Data Ltd., un fournisseur de formation en science des données en ligne, pour nettoyer et optimiser le jeu de données `customer_train.csv`. Ce jeu de données sera utilisé pour prédire si les étudiants recherchent un nouvel emploi, une information qui sera utilisée pour les diriger vers des recruteurs potentiels.
